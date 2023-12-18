@@ -1,3 +1,3 @@
 # GIT_advanced
 Test file
-Testing conflicts
+How to work with conflicts in GIT
